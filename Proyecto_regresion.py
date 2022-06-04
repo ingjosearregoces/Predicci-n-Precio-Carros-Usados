@@ -1,3 +1,14 @@
+"cells": [
+    {
+      "cell_type": "markdown",
+      "source": [
+        
+        "\n",
+        "Proyecto Final por: Jose Arregoces y Leonardo Viana"
+      ],
+      "metadata": {
+        "id": "mvcJUAM6Md7x"
+      }
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
