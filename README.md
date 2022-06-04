@@ -69,7 +69,7 @@ Conclusiones:
 3.	Determinar las variables con las que se piensa evaluar el modelo es parte fundamental del desarrollo de un buen análisis puesto a que añadir datos que no poseen dependencia puede generar incoherencias en dicho modelo.
 
 Anexos:
-[1]BMW Pricing Challenge | Kaggle
+[1] https://www.kaggle.com/datasets/danielkyrka/bmw-pricing-challenge
 [2] https://www.youtube.com/watch?v=tP9VR3BA0Ls&feature=youtu.be
 [3] https://www.kaggle.com/datasets/danielkyrka/bmw-pricing-challenge
 [4] https://github.com/ingjosearregoces/Predicci-n-Precio-Carros-Usados
