@@ -1,4 +1,4 @@
-# Proyecto Final por: Jose Arregoces y Leonardo Viana
+# Proyecto Final por: Jose Arregoces
 
 import pandas as pd
 import numpy as np
